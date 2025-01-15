@@ -25,7 +25,7 @@ Usage
 **Varabit Web Design & Development**: [Website](https://varabit.com)
 
 ## License
-    This plugin is released under the [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html).
+This plugin is released under the [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html).
 
 ## Contributing
-    Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
