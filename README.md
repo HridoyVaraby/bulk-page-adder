@@ -10,7 +10,7 @@ The Bulk Page Adder plugin allows WordPress administrators to create multiple pa
 
 ## Installation
 1. Download the plugin from the [GitHub repository](https://github.com/HridoyVaraby/bulk-page-adder).
-2. Upload the `bulk-page-adder` folder to the `/wp-content/plugins/` directory in your WordPress installation.
+2. Upload the `bulk-page-adder` folder to the `/wp-content/plugins/` directory in your WordPress installation. Or Upload the zip file in the add new plugin-upload new section. 
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Navigate to the 'Bulk Page Adder' menu item in the admin panel.
 5. Enter the desired page titles in the textarea and click the 'Create Pages' button.
